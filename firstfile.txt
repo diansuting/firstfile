@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>简单文字处理</title>
+	</head>
+	<body>
+		<strong>这是一段文本</strong></br>
+		<em>这是一段文本</em></br>
+		<p>&copy;&bnsp;Microsoft Windows 2007</p></br>
+		<P>A = a<sub>1</sub>+a<sub></sub>+a<sub>3</sub></br>
+		<u>这是一段文本<u/></br>
+		<strike>这是一段文本</strike></br>
+		<font color-"red" face="华文彩云" size="5">这是一段文本</font></br>
+		<font color="green" face="隶书" size="4"><strike><u>这<sub>是</sub>一<sup>段</sup>文本</stike></u></font></br>
+	</body>
+</html>
